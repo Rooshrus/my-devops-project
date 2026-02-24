@@ -63,3 +63,4 @@ For detailed explanation on how things work, checkout the [guide](https://github
 
 [MIT](https://github.com/creativetimofficial/vue-paper-dashboard/blob/master/LICENSE.md)
 This is a change in dev branch
+Lab 3: Project integrated by Kuzmiak.
