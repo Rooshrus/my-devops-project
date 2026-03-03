@@ -2,7 +2,7 @@ name: My   GitHub Actions Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, kuzmiak ]
   pull_request:
     branches: [ main ]
 
